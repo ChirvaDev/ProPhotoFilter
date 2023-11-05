@@ -1,0 +1,63 @@
+{
+  "identifier" : "53BAB4F3",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "A6802A50",
+      "localizations" : [
+        {
+          "description" : "Unlimited professionals filters for 6 Months ",
+          "displayName" : "6 Months ",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.TestWorkApp.PROPhotoFilter.6MonthsTip",
+      "referenceName" : "6 Months Tip",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "14.99",
+      "familyShareable" : false,
+      "internalID" : "08C8D9EF",
+      "localizations" : [
+        {
+          "description" : "Unlimited professionals filters for 1 Year",
+          "displayName" : "1 Year",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.TestWorkApp.PROPhotoFilter.1YearTip",
+      "referenceName" : "1 Year Tip",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "6.99",
+      "familyShareable" : false,
+      "internalID" : "BFD6EB7C",
+      "localizations" : [
+        {
+          "description" : "Unlimited professionals filters for 9 Months ",
+          "displayName" : "9 Months ",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.TestWorkApp.PROPhotoFilter.9MonthsTip",
+      "referenceName" : "9 Months Tip",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
